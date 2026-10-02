@@ -1,0 +1,5 @@
+Hello from Java Network Programming!
+
+This message is stored on GitHub.
+
+Java is reading this text from a remote URL.
